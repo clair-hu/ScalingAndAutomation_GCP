@@ -30,13 +30,13 @@ Currently, you can't use Google Cloud VPN in combination with a dedicated connec
 3. You must provide your own routing equipment.
 
 ----
-## in the practical application of a **data-intensice application**
+## in the practical application of a **data-intensive application**
 ### Why using Cloud Interconnect?
 1. to simply save on bandwidth connection cost
 2. because you want to ensure that you can take advantage of **on-site backup**
  - If you want to backup huge amounts of data to Google Cloud Storage, you would invest the time to setup a pairing arrangement to do so.
 
-![data-intensice application](Images/SA7.JPG "data-intensice application")
+![data-intensive application](Images/SA7.JPG "data-intensive application")
 
 ----
 ## in the practical application of a **latency-sensitive application**
